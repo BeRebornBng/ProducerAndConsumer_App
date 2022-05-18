@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Consumer\main.cpp(14,19): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Consumer\main.cpp(130,41): warning C4267: =: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Consumer.vcxproj -> C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Consumer\x64\Debug\Consumer.exe

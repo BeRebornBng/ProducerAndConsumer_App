@@ -1,0 +1,2 @@
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Manager\x64\Debug\Manager.exe
+C:\Users\Bakit\Desktop\Manager\x64\Debug\Manager.exe

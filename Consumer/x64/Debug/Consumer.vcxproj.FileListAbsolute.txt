@@ -1,0 +1,2 @@
+C:\Users\Bakit\source\repos\Приложение(Работа над процессами)\Consumer\x64\Debug\Consumer.exe
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Consumer\x64\Debug\Consumer.exe

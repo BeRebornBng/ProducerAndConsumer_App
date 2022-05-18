@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Producers\main.cpp(14,19): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Producers\main.cpp(98,41): warning C4267: =: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Producers\main.cpp(130,23): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Producers\main.cpp(130,9): warning C4101: sendmsg: неиспользованная локальная переменная
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Producers\main.cpp(146): warning C4715: WIN32PROC: значение возвращается не при всех путях выполнения
+  Producers.vcxproj -> C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Producers\x64\Debug\Producers.exe

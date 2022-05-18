@@ -1,0 +1,2 @@
+C:\Users\Bakit\source\repos\Приложение(Работа над процессами)\Producers\x64\Debug\Producers.exe
+C:\Users\Bakit\source\repos\SolutionProblemProducersAndConsumers\Producers\x64\Debug\Producers.exe
